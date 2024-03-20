@@ -11,7 +11,7 @@ Dataset:
 In the fields of computer vision and machine learning, the MNIST dataset is widely acknowledged as a fundamental resource. It is made up of 28x28 pixel grayscale images that each show a handwritten number from 0 to 9. Ten thousand well labeled test images and sixty thousand training images make up the dataset, which is used to assess the model. These photos are represented in grayscale as numbers between 0 and 255, where 0 denotes black and 255, white. When evaluating different machine learning models, MNIST is a useful standard, especially when it comes to tasks involving digit recognition. We want to create and assess a specific CNN for digit classification using MNIST, and we also want to see if it can generalize to handwritten images from the real world that aren't in the dataset.
 
 ## Neural Network Model
-![](nn.png)
+![](nn1.png)
 
 ## DESIGN STEPS
 ### Step 1 
